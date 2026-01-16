@@ -62,4 +62,5 @@ python dash_app/app.py
 
 # Customer-Segmentation-Analysis
 
-<img width="769" height="904" alt="Screenshot 2026-01-15 at 9 55 05 PM" src="https://github.com/user-attachments/assets/e86793dd-b206-4334-b9f3-8d8f2bc7bd8b" />
+<img width="695" height="878" alt="Screenshot 2026-01-15 at 9 53 42 PM" src="https://github.com/user-attachments/assets/e71ecbf8-49ac-4a25-8381-18fc505fd995" />
+
