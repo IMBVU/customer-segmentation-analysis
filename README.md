@@ -60,6 +60,4 @@ python dash_app/app.py
 
 ---
 
-### Suggested portfolio description (350 chars)
-Customer segmentation on Online Retail II transactions using RFM features + KMeans. Includes production-style ETL, model training, segment profiling, and an interactive dashboard with country/segment filters to explore revenue and customer behavior patterns.
 # Customer-Segmentation-Analysis
