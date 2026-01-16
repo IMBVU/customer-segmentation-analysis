@@ -1,7 +1,5 @@
 # Customer Segmentation Analysis (Online Retail II)
 
-A recruiter-ready, end-to-end customer segmentation project built on a real UK e-commerce dataset (Online Retail II).
-
 ## Business goal
 Segment customers based on purchase behavior to enable targeted retention, win-back, and upsell campaigns.
 
